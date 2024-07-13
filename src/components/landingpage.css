@@ -1,0 +1,4 @@
+.astable{
+    display: flex;
+    flex-direction: row;
+}
